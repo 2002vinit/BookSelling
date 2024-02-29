@@ -1,0 +1,72 @@
+
+
+.card-img-top{
+    height: 500px;
+}
+.vinit{
+    text-shadow: 2px 2px;
+    
+}
+
+.name{
+    color: white;
+}
+.topleft{
+  
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+ul.liststyl{
+    list-style-type: none;
+   
+}
+.topleft{
+    position: absolute;
+  top: 8px;
+  left: 16px;
+  color: white;
+}
+.design{
+    padding-top: 60px;
+}
+.design2{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.purchase{
+    background-color: aqua;
+    color: white;
+}
+.designFooter{
+    background-color: red;
+    border: 2px solid black;
+}
+.SingUp_form_changes{
+    margin-left: 300px;
+    margin-top: 100px;
+    width: 1000px;
+}
+.SingUp_body_changes{
+    background-color:aqua;
+}
+.SingUp_form-label{
+    font-size: x-large;
+}
+.SingUp_form-text{
+    font-size: medium;
+}
+.SingUp_btn{
+    width: 150px;
+}
+.ContactUs_body{
+    background-color:black;
+    color: white;
+}
+.AboutUs_body{
+    background-color: black;
+}
+.AboutUs_body{
+    background-color: black;
+    color: white;
+}
